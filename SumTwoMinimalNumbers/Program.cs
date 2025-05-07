@@ -17,6 +17,8 @@ namespace SumTwoMinimalNumbers
             testRunnerCheck.RunTestCheck(new TestSingleElementArrayCase());
 
             testRunnerCheck.RunTestCheck(new TestNullArrayCase());
+
+            testRunnerCheck.RunTestCheck(new TestDuplicateMinValuesCase());
         }
     }
 
@@ -80,6 +82,13 @@ namespace SumTwoMinimalNumbers
         public Type ExpectedException => typeof(ArgumentNullException);
     }
 
+    public class TestDuplicateMinValuesCase : ITestCase
+    {
+        public string NameShowInfoTestCase => "Duplicate min values case";
+        public int[] InputArray => [1, 1, 3, 3, 2];
+        public int ExpectedResult => 2; // 1 + 1
+        public Type ExpectedException => null;
+    }
 
     public class TestRunnerCheck
     {
