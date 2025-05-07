@@ -1,0 +1,7 @@
+D:\по c# + БД\лит код\SumTwoMinimalNumbers\SumTwoMinimalNumbers\bin\Debug\SumTwoMinimalNumbers.exe.config
+D:\по c# + БД\лит код\SumTwoMinimalNumbers\SumTwoMinimalNumbers\bin\Debug\SumTwoMinimalNumbers.exe
+D:\по c# + БД\лит код\SumTwoMinimalNumbers\SumTwoMinimalNumbers\bin\Debug\SumTwoMinimalNumbers.pdb
+D:\по c# + БД\лит код\SumTwoMinimalNumbers\SumTwoMinimalNumbers\obj\Debug\SumTwoMinimalNumbers.csproj.AssemblyReference.cache
+D:\по c# + БД\лит код\SumTwoMinimalNumbers\SumTwoMinimalNumbers\obj\Debug\SumTwoMinimalNumbers.csproj.CoreCompileInputs.cache
+D:\по c# + БД\лит код\SumTwoMinimalNumbers\SumTwoMinimalNumbers\obj\Debug\SumTwoMinimalNumbers.exe
+D:\по c# + БД\лит код\SumTwoMinimalNumbers\SumTwoMinimalNumbers\obj\Debug\SumTwoMinimalNumbers.pdb
